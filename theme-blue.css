@@ -328,7 +328,7 @@ h3 {
   overflow: hidden;
   transition: max-height 0.35s ease;
 }
-.abstract-body.expanded { max-height: 600px; }
+.abstract-body.expanded { max-height: 4000px; }
 .abstract-inner {
   margin-top: .75rem;
   padding: .85rem 1rem;

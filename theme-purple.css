@@ -299,7 +299,7 @@ h3 { font-size: 1.05rem; font-weight: 600; letter-spacing: -.01em; }
 .abstract-toggle .chevron { display: inline-block; transition: transform 0.25s ease; }
 .abstract-toggle.open .chevron { transform: rotate(180deg); }
 .abstract-body { max-height: 0; overflow: hidden; transition: max-height 0.35s ease; }
-.abstract-body.expanded { max-height: 600px; }
+.abstract-body.expanded { max-height: 4000px; }
 .abstract-inner {
   margin-top: .75rem;
   padding: .85rem 1rem;
